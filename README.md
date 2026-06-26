@@ -5,6 +5,11 @@ Conservatorio Profesional de Música de Zaragoza, curso 2026/2027.
 
 🔗 **Web:** https://javierabrego.github.io/plazas-conservatorio-zaragoza/
 
+## Páginas
+
+- **`index.html`** — estadísticas de plazas por instrumento (posibilidad de entrada, no admitidos, notas).
+- **`REGLAS.html`** — cómo funciona el acceso y la admisión, explicado para familias (basado en la Orden de 11 de abril de 2013, BOA nº 79).
+
 ## Qué muestra
 
 - **Posibilidad de entrar por instrumento**: plazas que fueron a 1º E.E. frente a los aspirantes
