@@ -1,9 +1,33 @@
-# Admisión 1º E.E. — Conservatorio de Música de Zaragoza 2026/2027
+# Plazas Conservatorio de Música de Zaragoza — Admisión 1º E.E. 2026/2027
 
-Resumen estadístico **anónimo** del proceso de admisión a 1º de Enseñanzas Elementales,
-elaborado a partir de los listados provisionales oficiales.
+Resumen estadístico **anónimo** del proceso de admisión a 1º de Enseñanzas Elementales del
+Conservatorio Profesional de Música de Zaragoza, curso 2026/2027.
 
-⚠️ Esta web no contiene datos personales: ni DNIs, ni fechas de nacimiento, ni nombres.
-Solo cifras agregadas por instrumento y curso y la distribución anónima de notas.
+🔗 **Web:** https://javierabrego.github.io/plazas-conservatorio-zaragoza/
 
-Publicado con GitHub Pages. Abrir `index.html`.
+## Qué muestra
+
+- **Posibilidad de entrar por instrumento**: plazas que fueron a 1º E.E. frente a los aspirantes
+  reales (admitidos + no admitidos), con el porcentaje de cobertura.
+- **Plazas a 1º E.E. vs. otros cursos**: cuántas vacantes de cada instrumento se cubren con
+  alumnado de 1º E.E. y cuántas con cursos superiores (Enseñanzas Profesionales).
+- **No admitidos por instrumento** según el listado oficial.
+- **Distribución de notas** de la prueba de acceso por instrumento (de forma anónima).
+- **Admitidos por curso**.
+
+## Privacidad
+
+⚠️ Esta web **no contiene ningún dato personal**: ni DNIs, ni fechas de nacimiento, ni nombres.
+Solo cifras agregadas por instrumento y curso y la distribución de notas sin identificar a quién
+corresponde cada una.
+
+## Fuente y método
+
+Elaborado a partir de los **listados provisionales oficiales** publicados por el conservatorio
+(estimación de vacantes, resultados de pruebas, admitidos y no admitidos). Al ser listados
+provisionales, las cifras pueden variar en los definitivos.
+
+## Uso
+
+Es una página estática autocontenida. Basta abrir `index.html` en cualquier navegador; no
+requiere servidor ni dependencias. Publicada con GitHub Pages.
